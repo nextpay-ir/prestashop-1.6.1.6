@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>nextpay</name>
+	<displayName><![CDATA[Nextpay Payment Modlue]]></displayName>
+	<version><![CDATA[1.0]]></version>
+	<description><![CDATA[درگاه پرداخت آنلاین نکست پی]]></description>
+	<author><![CDATA[Nextpay]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall>آیا مطمئن هستید میخواهید افزونه را حذف نمایید ؟</confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
